@@ -13,4 +13,4 @@ algorithmStudy // camelCase
 
 ㅁㄴㅇㄴㅁ
 
-const a = 
+const a = sdf;
